@@ -230,6 +230,7 @@
   "DigitalRelease": "Digital Release",
   "Disabled": "Disabled",
   "Discord": "Discord",
+  "DiscordUrlInSlackNotification": "You have a Discord notification setup as a Slack notification. Set this up as a Discord notification for better functionality.",
   "Discover": "Discover",
   "DiskSpace": "Disk Space",
   "Docker": "Docker",
